@@ -1,0 +1,30 @@
+JOHNNY FIVE STATISTICS:
+6107 Components
+1017 Unique Part Documents
+787 Unique Parts
+383 Subassemblies
+167 Unique Subassemblies
+142 Unique Subassembly Documents
+Estimated Weight 361.19lbs / 163.83kg
+Length (Approximate): 53.25" / 135.26cm
+Width (Track Drive to Track Drive): 30.06" / 76.35cm
+Width (Shoulder to Shoulder): 26.76" / 67.97cm
+Height (At Lowest Position): 57.32" / 145.59cm
+
+LOWER HALF STATISTICS:
+3538 Components
+423 Unique Part Documents
+327 Unique Parts
+206 Subassemblies
+76 Unique Subassemblies
+65 Unique Subassembly Documents
+Estimated Weight 290.78lbs / 131.90kg
+
+UPPER HALF STATISTICS:
+2567 Components
+642 Unique Part Documents
+496 Unique Parts
+175 Subassemblies
+90 Unique Subassemblies
+76 Unique Subassembly Documents
+Estimated Weight 70.41lbs / 31.94kg
